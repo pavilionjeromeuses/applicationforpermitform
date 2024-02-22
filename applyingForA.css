@@ -1,0 +1,35 @@
+/* ApplyingForA */
+.ApplyingForA {
+    position: absolute;
+    top: 100px;
+    left: 10px;
+    z-index: 0;
+}
+
+.ApplyingForA .shortRectangle {
+    width: 491px;
+    height: 23px;
+    background-color: #4F7082;
+    margin-bottom: 5px;
+}
+
+.ApplyingForA .shortRectangle h4 {
+    font-style: normal;
+    text-align: left;
+    color: white;
+    margin-left: 10px;
+}
+
+.ApplyingForA .shortRectangle h4 span {
+    font-style: italic;
+    color: white;
+}
+
+.spacer {
+    margin-left: 200px;
+}
+
+.ApplyingForA label {
+    font-style: normal;
+    color: #003E60;
+}

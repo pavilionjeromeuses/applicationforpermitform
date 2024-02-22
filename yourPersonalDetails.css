@@ -1,0 +1,102 @@
+/* Your Personal Details */
+.yourPersonalDetails {
+    position: absolute;
+    top: 645px;
+    left: 10px;
+    z-index: 0;
+}
+
+.yourPersonalDetails .mediumRectangle {
+    width: 491px;
+    height: 23px;
+    background-color: #4F7082;
+    margin-bottom: 10px;
+}
+
+.yourPersonalDetails .mediumRectangle h4 {
+    font-style: normal;
+    text-align: left;
+    color: white;
+    margin-left: 10px;
+}
+
+.yourPersonalDetails label[for='height'] {
+    font-style: normal;
+    color: #003E60;
+}
+
+.yourPersonalDetails input[type='number'] {
+    width: 415px;
+}
+
+.yourPersonalDetails input[type='number'] {
+    margin-left: 5px;
+}
+
+.yourPersonalDetails label[for='eyeColors'] {
+    position: absolute;
+    top: 85px;
+    left: 0px;
+    z-index: 0;
+    font-style: normal;
+    color: #003E60;
+    margin-bottom: 15px;
+}
+
+.yourPersonalDetails select {
+    position: absolute;
+    top: 85px;
+    left: 75px;
+    z-index: 0;
+    width: 402px;
+}
+
+.yourPersonalDetails label[for='email'] {
+    position: absolute;
+    top: 115px;
+    left: 0px;
+    z-index: 0;
+    font-style: normal;
+    color: #003E60;
+    margin-bottom: 15px;
+}
+
+.yourPersonalDetails input[type='email'] {
+    position: absolute;
+    top: 115px;
+    left: 55px;
+    z-index: 0;
+    width: 415px;
+}
+
+.yourPersonalDetails .status {
+    position: absolute;
+    top: 145px;
+    left: 0px;
+    z-index: 0;
+    margin-bottom: 15px;
+}
+
+.yourPersonalDetails .status b,
+label[for='single'],
+label[for='married'],
+label[for='divorced'] {
+    font-style: normal;
+    color: #003E60;
+}
+
+.addressWhereYouLive {
+    position: absolute;
+    top: 185px;
+    left: 0px;
+    z-index: 0;
+}
+
+.addressWhereYouLive input[type='number'] {
+    width: 73.5px;
+}
+
+.addressWhereYouLive [type='text'] {
+    width: 96.5%;
+    margin-bottom: 5px;
+}

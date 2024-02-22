@@ -1,0 +1,52 @@
+/* Identification Information */
+.indentificationInformation {
+    position: absolute;
+    top: 100px;
+    left: 525px;
+    z-index: 0;
+}
+
+.indentificationInformation .mediumRectangle {
+    width: 660px;
+    height: 23px;
+    background-color: #4F7082;
+    margin-bottom: 5px;
+}
+
+.indentificationInformation .mediumRectangle h4 {
+    font-style: normal;
+    text-align: left;
+    color: white;
+    margin-left: 10px;
+}
+
+.indentificationInformation label {
+    color: #003E60;
+}
+
+.indentificationInformation .paragraph p {
+    position: absolute;
+    top: 45px;
+    left: 150px;
+    z-index: 0;
+    text-align: left;
+    color: #003E60
+}
+
+.photoIndentificationInformation {
+    position: absolute;
+    top: 172px;
+    right: 30px;
+    z-index: 0;
+}
+
+.photoIndentificationInformation .photoIndentificationInformationSquare {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 450px;
+    height: 125px;
+    border: 3.5px solid #4F7082;
+    padding: 10px;
+    cursor: pointer;
+}

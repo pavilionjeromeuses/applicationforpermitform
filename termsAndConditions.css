@@ -1,0 +1,7 @@
+/* Terms & Conditions */
+.termsAndConditions {
+    position: absolute;
+    top: 1500px;
+    left: 10px;
+    z-index: 0;
+}

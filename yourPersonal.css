@@ -1,0 +1,36 @@
+/* Your Personal */
+.yourPersonal {
+    position: absolute;
+    top: 155px;
+    left: 10px;
+    z-index: 0;
+}
+
+.yourPersonal .mediumRectangle {
+    width: 491px;
+    height: 23px;
+    background-color: #4F7082;
+    margin-bottom: 5px;
+}
+
+.yourPersonal .mediumRectangle h4 {
+    font-style: normal;
+    text-align: left;
+    color: white;
+    margin-left: 10px;
+}
+
+.yourPersonal input[type='text'] {
+    width: 96.5%;
+    margin-bottom: 5px;
+}
+
+.yourPersonal select {
+    width: 98%;
+    margin-bottom: 15px;
+}
+
+.yourPersonal label {
+    font-style: normal;
+    color: #003E60;
+}

@@ -1,0 +1,26 @@
+/* Contact Details */
+.contactDetails {
+    position: absolute;
+    top: 645px;
+    left: 525px;
+    z-index: 0;
+}
+
+.contactDetails .mediumRectangle {
+    width: 491px;
+    height: 23px;
+    background-color: #4F7082;
+    margin-bottom: 10px;
+}
+
+.contactDetails .mediumRectangle h4 {
+    font-style: normal;
+    text-align: left;
+    color: white;
+    margin-left: 10px;
+}
+
+.contactDetails [type='number'] {
+    width: 96.5%;
+    margin-bottom: 5px;
+}

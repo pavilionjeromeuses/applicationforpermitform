@@ -1,0 +1,22 @@
+/* Photo Here */
+.photoPicture {
+    position: absolute;
+    top: 122px;
+    right: 25px;
+    z-index: 0;
+}
+
+.photoPicture .photoPictureSquare {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 275px;
+    height: 275px;
+    border: 3.5px solid #4F7082;
+    padding: 10px;
+    cursor: pointer;
+}
+
+#fileInput {
+    display: none;
+}

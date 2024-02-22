@@ -1,0 +1,22 @@
+/* Birth Certificate Photo */
+.birthCertificatePhoto {
+    position: absolute;
+    top: 670px;
+    right: 35px;
+    z-index: 0;
+}
+
+.birthCertificatePhoto .birthCertificatePhotoSquare {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 410px;
+    height: 600px;
+    border: 3.5px solid #4F7082;
+    padding: 10px;
+    cursor: pointer;
+}
+
+#fileInput {
+    display: none;
+}
