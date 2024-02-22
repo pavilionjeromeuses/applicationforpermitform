@@ -1,2 +1,6 @@
-# applicationforpermitform
+![image](https://github.com/pavilionjeromeuses/applicationforpermitform/assets/155218546/52f9f7ec-a333-4f9b-a701-284069da3f70)# applicationforpermitform
 Application for Permit, a web form project. Designed for a 15" laptop monitor screen, not responsive, basic html, css and javascript.
+
+![1](https://github.com/pavilionjeromeuses/applicationforpermitform/assets/155218546/aea8701d-f30c-478d-a7b4-dadc20c3bb2f)
+![2](https://github.com/pavilionjeromeuses/applicationforpermitform/assets/155218546/101d4e87-1ab2-48b2-9bcc-039848555a7b)
+![3](https://github.com/pavilionjeromeuses/applicationforpermitform/assets/155218546/b77812e5-2695-4664-bf0f-3d0187e81cd6)
